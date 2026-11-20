@@ -1,2 +1,4 @@
-const division = (a,b) => a/b;
-export default division; 
+export const add = (a,b)=> a+b;
+export const sub = (a,b) => a-b;
+export const mult = (a,b) => a*b;
+export const division = (a,b) => a/b;
